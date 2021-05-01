@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: rgb(53 78 173);
+	padding: 15px 10px;
+	border-radius: 4px;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: "roboto", sans-serif;
+
+}
+
+.btn-blue:hover {
+	background-color: #e4e25e;
+	color: rgb(53 78 173);
+
+
+}
